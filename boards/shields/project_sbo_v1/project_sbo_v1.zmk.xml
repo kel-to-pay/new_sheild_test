@@ -1,4 +1,4 @@
-file_format: "1"
+/* file_format: "1"
 id: project_sbo_v1
 name: Project SBO
 type: shield
@@ -6,3 +6,4 @@ url: https://github.com/kel-to-pay/new_sheild_test
 requires: [pro_micro]
 features:
   - keys
+*/
