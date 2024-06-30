@@ -1,0 +1,2 @@
+config PROJECT_SBO_V1
+    def_bool $(shields_list_contains,project_sbo_v1)
