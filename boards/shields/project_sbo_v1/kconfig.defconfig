@@ -1,6 +1,5 @@
 if PROJECT_SBO_V1
 
 config ZMK_KEYBOARD_NAME
-    default "Project SBO"
-
+    default "Project SBO V1"
 endif
