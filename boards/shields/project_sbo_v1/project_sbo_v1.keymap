@@ -17,6 +17,7 @@
                 &kp A     &kp S     &kp D  &kp LSHIFT &kp LSHIFT  &kp F     &kp G     &kp H
      &kp ESC    &kp J     &kp K     &kp L     &kp Z      &kp N   &kp SEMI   &kp SQT  &kp HASH  &kp ESC
      &kp E      &kp R     &kp T     &kp Y     &kp X      &kp X    &kp U     &kp I     &kp O     &kp P
-                                    &kp C     &kp V      &KP V    &kp B
-    }
-}
+                                    &kp C     &kp V      &kp V    &kp B
+        >;
+    };
+};
